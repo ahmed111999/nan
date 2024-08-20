@@ -36,4 +36,3 @@ This is a simple website for a tent rental business named "سير." The website 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-# nan
